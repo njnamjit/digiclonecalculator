@@ -44,3 +44,7 @@
 * เว็บไซต์นี้ใช้งานได้สะดวกผ่านเว็บเบราว์เซอร์ทั่วไป (Chrome, Firefox, Edge, Safari)
 
 ---
+
+<p align="center">
+  <i>NJ NAMJIT</i>
+</p>
